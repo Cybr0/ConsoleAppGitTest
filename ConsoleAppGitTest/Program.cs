@@ -17,8 +17,8 @@ namespace ConsoleAppGitTest
             //cw 2
             Console.WriteLine("add new string line");
 
-            //cw 3
-            Console.WriteLine("cw 3 master");
+            //cw 3 updated
+            Console.WriteLine("cw 3 master feat/cw3");
         }
     }
 }
