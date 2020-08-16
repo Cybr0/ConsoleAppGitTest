@@ -17,6 +17,10 @@ namespace ConsoleAppGitTest
             //cw 2
             Console.WriteLine("add new string line");
 
+
+            //cw 3
+            Console.WriteLine("this commit will be deleted");
+
         }
     }
 }
