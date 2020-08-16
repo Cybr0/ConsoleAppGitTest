@@ -18,7 +18,7 @@ namespace ConsoleAppGitTest
             Console.WriteLine("add new string line");
 
             //cw 3
-            Console.WriteLine("cw 3");
+            Console.WriteLine("cw 3 master");
         }
     }
 }
