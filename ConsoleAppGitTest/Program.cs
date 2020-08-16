@@ -10,7 +10,13 @@ namespace ConsoleAppGitTest
     {
         static void Main(string[] args)
         {
+            //cw 1
             Console.WriteLine("Git Test Changed");
+
+
+            //cw 2
+            Console.WriteLine("add new string line");
+
         }
     }
 }
